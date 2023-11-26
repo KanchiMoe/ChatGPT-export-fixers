@@ -1,0 +1,86 @@
+{
+  "version": 4,
+  "history": [
+    {
+      "id": "03794f2e-ca62-480f-bd15-ea324c5cc2ba",
+      "name": "Lorem Ipsum",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dignissimos sed beatae numquam ea magnam repellat id nostrum in, quidem nostrum quam accusamus similique illo dolore, harum quia nihil ullam laboriosam cumque architecto labore nobis?"
+        },
+        {
+          "role": "assistant",
+          "content": "Assumenda ratione debitis aliquam, assumenda sint necessitatibus perspiciatis dolor exercitationem libero harum, minima officiis a totam error aliquid animi eum et, maxime consequatur magnam consequuntur doloribus nulla debitis."
+        },
+        {
+          "role": "user",
+          "content": "Sapiente temporibus officia, laboriosam veniam tenetur."
+        },
+        {
+          "role": "assistant",
+          "content": "Veniam doloremque maxime voluptates non iste, quae culpa quisquam sequi alias non blanditiis iste aut illo, rem laudantium voluptate culpa, dolor assumenda obcaecati amet et provident, iusto corrupti voluptas eos aliquid ipsum?"
+        },
+        {
+          "role": "user",
+          "content": "Quibusdam dignissimos architecto tempora, necessitatibus dolor natus, provident ipsum porro dolores molestias voluptates excepturi repellendus non distinctio, iste veniam libero dolorem unde dicta id repellat voluptates?"
+        },
+        {
+          "role": "assistant",
+          "content": "Culpa laudantium assumenda iure quia sequi quaerat dolorum ad, voluptas modi maiores sequi inventore suscipit eveniet ea asperiores, sed unde odit qui quos totam quo ullam explicabo veniam dolorem aspernatur?"
+        },
+        {
+          "role": "user",
+          "content": "Commodi tenetur rerum magnam, distinctio fuga cupiditate quam sint repudiandae incidunt ad modi magni maxime perspiciatis, at perferendis id earum velit."
+        },
+        {
+          "role": "assistant",
+          "content": "Illo quo possimus deserunt nemo, quas exercitationem illum sequi maiores cum labore atque adipisci modi impedit."
+        },
+        {
+          "role": "user",
+          "content": "Ratione fuga libero unde quas eum dolor aspernatur, velit vel reprehenderit in?"
+        },
+        {
+          "role": "assistant",
+          "content": "Voluptates quasi error itaque nisi atque iusto, adipisci temporibus autem harum eligendi vitae atque possimus ipsum magni animi, accusantium facere commodi pariatur ea accusamus veniam eveniet nihil quaerat, consequuntur explicabo hic rerum?"
+        },
+        {
+          "role": "user",
+          "content": "Nesciunt ex totam, minus vel obcaecati blanditiis rem maiores quos perspiciatis facilis quibusdam?"
+        },
+        {
+          "role": "assistant",
+          "content": "Dolor quibusdam quod repellat accusantium quae unde, aliquam autem repudiandae totam accusantium enim qui, delectus similique nesciunt totam architecto quidem magni quaerat quia voluptate libero, sunt repellendus recusandae soluta pariatur illum vitae officia aut nostrum similique, tempore beatae blanditiis cupiditate?"
+        },
+        {
+          "role": "user",
+          "content": "Sed non aut debitis nam quidem, laudantium aspernatur ducimus eos dolores ipsa dolorum accusamus maxime delectus eveniet totam?"
+        },
+        {
+          "role": "assistant",
+          "content": "Reprehenderit dolor mollitia ea maiores quidem ipsum enim eaque, quasi saepe magni maiores at nam pariatur obcaecati modi illo neque voluptate, deserunt laudantium provident deleniti itaque?"
+        },
+        {
+          "role": "user",
+          "content": "Architecto ducimus assumenda nesciunt minima dignissimos, quasi possimus beatae facere iure id aliquam corrupti explicabo accusantium repellendus sapiente, facilis aperiam quam modi eligendi voluptates voluptatibus."
+        },
+        {
+          "role": "assistant",
+          "content": "Saepe blanditiis vitae eaque quisquam eveniet illum officia consequatur atque cum, quaerat excepturi laboriosam expedita fuga velit, hic aliquam non esse reprehenderit accusantium autem quam similique dolor quidem dicta."
+        }
+      ],
+      "model": {
+        "id": "openchat_v3.2_mistral",
+        "name": "OpenChat Aura",
+        "maxLength": 24576,
+        "tokenLimit": 8192
+      },
+      "prompt": " ",
+      "temperature": 0.3,
+      "folderId": null
+    }
+  ],
+  "folders": [],
+  "prompts": []
+}

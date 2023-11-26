@@ -1,0 +1,3 @@
+# Don't add output or data files
+**/out.html
+**/data.json
